@@ -1,0 +1,5 @@
+pymongo
+pyqt4
+xlrd
+xlwt
+openpyxl
