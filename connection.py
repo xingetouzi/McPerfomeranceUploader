@@ -2,8 +2,8 @@ import json
 import pymongo
 
 CONFIG_PREFIX = "connection"
-# MONGODB = "local"
-MONGODB = "remote"
+MONGODB = "local"
+# MONGODB = "remote"
 
 
 def singleton(cls, *args, **kw):
