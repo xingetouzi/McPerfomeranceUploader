@@ -1,0 +1,451 @@
+VendorID,StrategyID,Location
+1,1,.\record\position\JiangNan_v1.4.pp.hot.3m.20c.160901.ob.4_positions.csv
+1,2,.\record\position\SATS v2.0.1.NT.DL.NR.AU.15m.160308.os.rr.1_positions.csv
+1,3,.\record\position\SATS v2.0.1.NT.DL.NR.PP.10m.160308.os.rr.1_positions.csv
+1,4,.\record\position\William_v1.1.TA.000.15m.160901.ob.3_positions.csv
+1,5,.\record\position\_Acme F v1.0.pp.5m.160609.tt.2_positions.csv
+1,6,.\record\position\_Acme F v1.0.pp.5m.160609.tt.3_positions.csv
+1,7,.\record\position\_ARE_v1.3.1.RB.HOT.5m.161202.ob10_positions.csv
+1,8,.\record\position\_ARE_v1.3.1.RB.HOT.5m.161202.ob16_positions.csv
+1,9,.\record\position\_ARE_v1.3.1.RB.HOT.5m.161202.ob3_positions.csv
+1,10,.\record\position\_ARE_v1.3.1.RB.HOT.5m.161202.ob4_positions.csv
+1,11,.\record\position\_ARE_v1.3.1.RB.HOT.5m.161202.ob7_positions.csv
+1,12,.\record\position\_ARE_v1.3.1.RB.HOT.5m.161202.ob8_positions.csv
+1,13,.\record\position\_DBC_v1.0_DL.pp.000000.15m.20151221.ob.1_positions.csv
+1,14,.\record\position\_DBC_v1.0_DL.pp.000000.15m.20151221.ob.2_positions.csv
+1,15,.\record\position\_DBC_v1.0_DL.rb.000000.30m.20151208.ob.1_positions.csv
+1,16,.\record\position\_DCN_v1.1.1.ag.000000.1d.20160705.ob.1_B_positions.csv
+1,17,.\record\position\_DCN_v1.1.1.ag.000000.1d.20160705.ob.2_B_positions.csv
+1,18,.\record\position\_DCN_v1.1.1.al.000000.5m.20160707.ob.1_positions.csv
+1,19,.\record\position\_DCN_v1.1.1.al.000000.5m.20160707.ob.9_positions.csv
+1,20,.\record\position\_DCN_v1.1.1.au.000000.1d.20160705.ob.1_B_positions.csv
+1,21,.\record\position\_DCN_v1.1.1.au.000000.1d.20160705.ob.2_B_positions.csv
+1,22,.\record\position\_DCN_v1.1.1.au.000000.1d.20160705.ob.3_B_positions.csv
+1,23,.\record\position\_DCN_v1.1.1.au.000000.1d.20160705.ob.4_B_positions.csv
+1,24,.\record\position\_DCN_v1.1.1.CU.000000.15m.160909.ob6_positions.csv
+1,25,.\record\position\_DCN_v1.1.1.cu.000000.15m.20160915.ob.2_positions.csv
+1,26,.\record\position\_DCN_v1.1.1.cu.000000.15m.20160915.ob.5_positions.csv
+1,27,.\record\position\_DCN_v1.1.1.j.000000.1d.20160707.ob.1_positions.csv
+1,28,.\record\position\_DCN_v1.1.1.j.000000.1d.20160707.ob.2_positions.csv
+1,29,.\record\position\_DCN_v1.1.1.j.000000.1d.20160707.ob.3_positions.csv
+1,30,.\record\position\_DCN_v1.1.1.j.000000.1d.20160707.ob.5_positions.csv
+1,31,.\record\position\_DCN_v1.1.1.j.000000.1d.20160707.ob.7_positions.csv
+1,32,.\record\position\_DCN_v1.1.1.j.000000.30m.20160707.ob.10_positions.csv
+1,33,.\record\position\_DCN_v1.1.1.j.000000.30m.20160707.ob.1_positions.csv
+1,34,.\record\position\_DCN_v1.1.1.j.000000.30m.20160707.ob.2_positions.csv
+1,35,.\record\position\_DCN_v1.1.1.j.000000.30m.20160707.ob.3_positions.csv
+1,36,.\record\position\_DCN_v1.1.1.j.000000.30m.20160707.ob.4_positions.csv
+1,37,.\record\position\_DCN_v1.1.1.j.000000.30m.20160707.ob.8_positions.csv
+1,38,.\record\position\_DCN_v1.1.1.j.000000.30m.20160707.ob.9_positions.csv
+1,39,.\record\position\_DCN_v1.1.1.m.000000.1d.20160707.ob.2_positions.csv
+1,40,.\record\position\_DCN_v1.1.1.m.000000.1d.20160707.ob.3_positions.csv
+1,41,.\record\position\_DCN_v1.1.1.PP.000000.15m.160909.ob1_positions.csv
+1,42,.\record\position\_DCN_v1.1.1.PP.000000.15m.160909.ob4_positions.csv
+1,43,.\record\position\_DCN_v1.1.1.pp.000000.15m.20160915.ob.1_positions.csv
+1,44,.\record\position\_DCN_v1.1.1.pp.000000.15m.20160915.ob.2_positions.csv
+1,45,.\record\position\_DCN_v1.1.1.RB.000000.15m.160909.ob1_positions.csv
+1,46,.\record\position\_DCN_v1.1.1.RB.000000.15m.160909.ob2_positions.csv
+1,47,.\record\position\_DCN_v1.1.1.RB.000000.15m.160909.ob3_positions.csv
+1,48,.\record\position\_DCN_v1.1.1.RB.000000.15m.160909.ob4_positions.csv
+1,49,.\record\position\_DCN_v1.1.1.RB.000000.15m.160909.ob5_positions.csv
+1,50,.\record\position\_DCN_v1.1.1.RB.000000.15m.160909.ob6_positions.csv
+1,51,.\record\position\_DCN_v1.1.1.rb.000000.15m.20160915.ob.1_positions.csv
+1,52,.\record\position\_DCN_v1.1.1.rb.000000.15m.20160915.ob.2_positions.csv
+1,53,.\record\position\_DCN_v1.1.1.rb.000000.15m.20160915.ob.3_positions.csv
+1,54,.\record\position\_DCN_v1.1.1.rm.000000.30m.20160707.ob.4_positions.csv
+1,55,.\record\position\_DCN_v1.1.1.rm.000000.30m.20160707.ob.5_positions.csv
+1,56,.\record\position\_DCN_v1.1.1.rm.000000.30m.20160707.ob.7_positions.csv
+1,57,.\record\position\_DCN_v1.1.1.RU.000000.15m.160909.ob1_positions.csv
+1,58,.\record\position\_DCN_v1.1.1.RU.000000.15m.160909.ob2_positions.csv
+1,59,.\record\position\_DCN_v1.1.1.ru.000000.15m.20160915.ob.1_positions.csv
+1,60,.\record\position\_DCN_v1.1.1.ru.000000.15m.20160915.ob.3_positions.csv
+1,61,.\record\position\_DCN_v1.1.1.ru.000000.15m.20160915.ob.4_positions.csv
+1,62,.\record\position\_DCN_v1.1.1.ru.000000.15m.20160915.ob.5_positions.csv
+1,63,.\record\position\_DCN_v1.1.1.y.000000.5m.20160707.ob.1_positions.csv
+1,64,.\record\position\_DCN_v1.1.1.y.000000.5m.20160707.ob.2_positions.csv
+1,65,.\record\position\_DCN_v1.1.1.y.000000.5m.20160707.ob.3_positions.csv
+1,66,.\record\position\_DCN_v1.1.2.AG.HOT.15m.160909.ob1_positions.csv
+1,67,.\record\position\_DCN_v1.1.2.AG.HOT.15m.160909.ob2_positions.csv
+1,68,.\record\position\_DCN_v1.1.2.ag.Hot.15m.1c.20160915.ob.1_positions.csv
+1,69,.\record\position\_DCN_v1.1.2.ag.Hot.15m.1c.20160915.ob.2_positions.csv
+1,70,.\record\position\_DCN_v1.1.2.ag.Hot.15m.1c.20160915.ob.3_positions.csv
+1,71,.\record\position\_DCN_v1.1.2.ag.Hot.15m.1c.20160915.ob.4_positions.csv
+1,72,.\record\position\_DCN_v1.1.2.ag.Hot.15m.1c.20160915.ob.5_positions.csv
+1,73,.\record\position\_DCN_v1.1.2.ag.Hot.30m.1c.20160920.ob.3_positions.csv
+1,74,.\record\position\_DCN_v1.1.2.ag.Hot.5m.1c.20160920.ob.1_positions.csv
+1,75,.\record\position\_DCN_v1.1.2.ag.Hot.5m.1c.20160920.ob.3_positions.csv
+1,76,.\record\position\_DCN_v1.1.2.au.Hot.15m.1c.20160915.ob.2_positions.csv
+1,77,.\record\position\_DCN_v1.1.2.au.Hot.15m.1c.20160915.ob.3_positions.csv
+1,78,.\record\position\_DCN_v1.1.2.au.Hot.15m.1c.20160915.ob.5_positions.csv
+1,79,.\record\position\_DCN_v1.1.2.au.Hot.5m.1c.20160915.ob.1_positions.csv
+1,80,.\record\position\_DCN_v1.1.2.au.Hot.5m.1c.20160915.ob.3_positions.csv
+1,81,.\record\position\_DCN_v1.1.2.au.Hot.5m.1c.20160915.ob.4_positions.csv
+1,82,.\record\position\_DCN_v1.1.2.hc.Hot.15m.1c.20160915.ob.1_positions.csv
+1,83,.\record\position\_DCN_v1.1.2.hc.Hot.15m.1c.20160915.ob.2_positions.csv
+1,84,.\record\position\_DCN_v1.1.2.hc.Hot.15m.1c.20160915.ob.4_positions.csv
+1,85,.\record\position\_DCN_v1.1.2.hc.Hot.15m.1c.20160915.ob.5_positions.csv
+1,86,.\record\position\_DCN_v1.1.2.hc.Hot.30m.1c.20160920.ob.2_positions.csv
+1,87,.\record\position\_DCN_v1.1.2.hc.Hot.30m.1c.20160920.ob.3_positions.csv
+1,88,.\record\position\_DCN_v1.1.2.hc.Hot.5m.1c.20160915.ob.1_positions.csv
+1,89,.\record\position\_DCN_v1.1.2.hc.Hot.5m.1c.20160915.ob.2_positions.csv
+1,90,.\record\position\_DCN_v1.1.2.hc.Hot.5m.1c.20160915.ob.3_positions.csv
+1,91,.\record\position\_DCN_v1.1.2.hc.Hot.5m.1c.20160915.ob.4_positions.csv
+1,92,.\record\position\_DCN_v1.1.2.l.Hot.15m.1c.20160915.ob.1_positions.csv
+1,93,.\record\position\_DCN_v1.1.2.l.Hot.15m.1c.20160915.ob.3_positions.csv
+1,94,.\record\position\_DCN_v1.1.2.NI.HOT.15m.160909.ob1_positions.csv
+1,95,.\record\position\_DCN_v1.1.2.NI.HOT.15m.160909.ob2_positions.csv
+1,96,.\record\position\_DCN_v1.1.2.ni.Hot.15m.1c.20160915.ob.1_positions.csv
+1,97,.\record\position\_DCN_v1.1.2.ni.Hot.15m.1c.20160915.ob.2_positions.csv
+1,98,.\record\position\_DCN_v1.1.2.ni.Hot.15m.1c.20160915.ob.3_positions.csv
+1,99,.\record\position\_DCN_v1.1.2.ni.Hot.15m.1c.20160915.ob.4_positions.csv
+1,100,.\record\position\_DCN_v1.1.2.PP.HOT.5m.160909.ob2_positions.csv
+1,101,.\record\position\_DCN_v1.1.2.PP.HOT.5m.160909.ob6_positions.csv
+1,102,.\record\position\_DCN_v1.1.2.PP.HOT.5m.160909.ob7_positions.csv
+1,103,.\record\position\_DCN_v1.1.2.pp.Hot.5m.1c.20160915.ob.3_positions.csv
+1,104,.\record\position\_DCN_v1.1.2.pta.Hot.5m.1c.20160915.ob.1_positions.csv
+1,105,.\record\position\_DCN_v1.1.2.pta.Hot.5m.1c.20160915.ob.2_positions.csv
+1,106,.\record\position\_DCN_v1.1.2.pvc.Hot.15m.1c.20160915.ob.1_positions.csv
+1,107,.\record\position\_DCN_v1.1.2.pvc.Hot.15m.1c.20160915.ob.2_positions.csv
+1,108,.\record\position\_DCN_v1.1.2.pvc.Hot.15m.1c.20160915.ob.3_positions.csv
+1,109,.\record\position\_DCN_v1.1.2.pvc.Hot.15m.1c.20160915.ob.4_positions.csv
+1,110,.\record\position\_DCN_v1.1.2.pvc.Hot.30m.1c.20160915.ob.1_positions.csv
+1,111,.\record\position\_DCN_v1.1.2.pvc.Hot.30m.1c.20160915.ob.2_positions.csv
+1,112,.\record\position\_DCN_v1.1.2.pvc.Hot.30m.1c.20160915.ob.3_positions.csv
+1,113,.\record\position\_DCN_v1.1.2.RB.HOT.30m.160909.ob6_positions.csv
+1,114,.\record\position\_DCN_v1.1.2.RB.HOT.5m.160909.ob1_positions.csv
+1,115,.\record\position\_DCN_v1.1.2.RB.HOT.5m.160909.ob2_positions.csv
+1,116,.\record\position\_DCN_v1.1.2.RB.HOT.5m.160909.ob3_positions.csv
+1,117,.\record\position\_DCN_v1.1.2.RB.HOT.5m.160909.ob4_positions.csv
+1,118,.\record\position\_DCN_v1.1.2.RB.HOT.5m.160909.ob5_positions.csv
+1,119,.\record\position\_DCN_v1.1.2.RB.HOT.5m.160909.ob6_positions.csv
+1,120,.\record\position\_DCN_v1.1.2.RB.HOT.5m.160909.ob7_positions.csv
+1,121,.\record\position\_DCN_v1.1.2.rb.Hot.5m.1c.20160915.ob.1_positions.csv
+1,122,.\record\position\_DCN_v1.1.2.rb.Hot.5m.1c.20160915.ob.2_positions.csv
+1,123,.\record\position\_DCN_v1.1.2.rb.Hot.5m.1c.20160915.ob.3_positions.csv
+1,124,.\record\position\_DCN_v1.1.2.rb.Hot.5m.1c.20160915.ob.4_positions.csv
+1,125,.\record\position\_DCN_v1.1.2.ru.Hot.30m.1c.20160915.ob.1_positions.csv
+1,126,.\record\position\_DCN_v1.1.2.ru.Hot.30m.1c.20160915.ob.3_positions.csv
+1,127,.\record\position\_DCN_v1.1.2.sr.Hot.30m.1c.20160915.ob.5_positions.csv
+1,128,.\record\position\_DCN_v1.1.2.Y.HOT.30m.1c.20160930.ob.1_positions.csv
+1,129,.\record\position\_DCN_v1.1.2.ZN.HOT.15m.160909.ob1_positions.csv
+1,130,.\record\position\_DCN_v1.1.2.zn.Hot.15m.1c.20160915.ob.1_positions.csv
+1,131,.\record\position\_DCN_v1.1.2.ZN.HOT.30m.160909.ob1_positions.csv
+1,132,.\record\position\_DCN_v1.1.A00.15m.160704.ob.6_positions.csv
+1,133,.\record\position\_DCN_v1.1.A00.15m.160704.ob.7_positions.csv
+1,134,.\record\position\_DCN_v1.1.A00.15m.160704.ob.8_positions.csv
+1,135,.\record\position\_DCN_v1.1.a00.15m.160707.ob.3_positions.csv
+1,136,.\record\position\_DCN_v1.1.AG.15m.160704.ob.1_positions.csv
+1,137,.\record\position\_DCN_v1.1.AG.15m.160704.ob.2_positions.csv
+1,138,.\record\position\_DCN_v1.1.AL00.15m.160704.ob.2_positions.csv
+1,139,.\record\position\_DCN_v1.1.AL00.15m.160707.ob.3_positions.csv
+1,140,.\record\position\_DCN_v1.1.AU.15m.160709.ob.1_positions.csv
+1,141,.\record\position\_DCN_v1.1.AU.5m.160704.ob.1_positions.csv
+1,142,.\record\position\_DCN_v1.1.AU.5m.160704.ob.2_positions.csv
+1,143,.\record\position\_DCN_v1.1.AU.5m.160704.ob.4_positions.csv
+1,144,.\record\position\_DCN_v1.1.CU.15m.160704.ob.2_positions.csv
+1,145,.\record\position\_DCN_v1.1.CU.15m.160704.ob.3_positions.csv
+1,146,.\record\position\_DCN_v1.1.HC00.15m.160704.ob.4_positions.csv
+1,147,.\record\position\_DCN_v1.1.HC00.15m.160704.ob.5_positions.csv
+1,148,.\record\position\_DCN_v1.1.HC00.5m.160704.ob.2_positions.csv
+1,149,.\record\position\_DCN_v1.1.HC00.5m.160704.ob.3_positions.csv
+1,150,.\record\position\_DCN_v1.1.i00.15m.160704.ob.1_positions.csv
+1,151,.\record\position\_DCN_v1.1.i00.15m.160704.ob.2_positions.csv
+1,152,.\record\position\_DCN_v1.1.j.000000.15m.20160704.ob.1_positions.csv
+1,153,.\record\position\_DCN_v1.1.j.000000.15m.20160704.ob.3_positions.csv
+1,154,.\record\position\_DCN_v1.1.j.000000.15m.20160704.ob.4_positions.csv
+1,155,.\record\position\_DCN_v1.1.m.000000.10m.20160704.ob.2_positions.csv
+1,156,.\record\position\_DCN_v1.1.sr.000000.15m.20160704.ob.1_positions.csv
+1,157,.\record\position\_DCN_v1.1.v.000000.15m.20160704.ob.1_positions.csv
+1,158,.\record\position\_DCN_v1.1.v.000000.5m.20160704.ob.1_positions.csv
+1,159,.\record\position\_DCN_v1.1.zn.000000.10m.20160704.ob.2_positions.csv
+1,160,.\record\position\_DCN_v1.1.zn.000000.10m.20160704.ob.3_positions.csv
+1,161,.\record\position\_DCTS_v1.4.1.RB.HOT.15m.161125.ob12_positions.csv
+1,162,.\record\position\_DCTS_v1.4.1.RB.HOT.15m.161125.ob14_positions.csv
+1,163,.\record\position\_DCTS_v1.4.1.RB.HOT.15m.161125.ob16_positions.csv
+1,164,.\record\position\_DCTS_v1.4.1.RB.HOT.15m.161125.ob17_positions.csv
+1,165,.\record\position\_DCTS_v1.4.1.RB.HOT.15m.161125.ob18_positions.csv
+1,166,.\record\position\_DCTS_v1.4.1.RB.HOT.15m.161125.ob1_positions.csv
+1,167,.\record\position\_DCTS_v1.4.1.RB.HOT.15m.161125.ob21_positions.csv
+1,168,.\record\position\_DCTS_v1.4.1.RB.HOT.15m.161125.ob2_positions.csv
+1,169,.\record\position\_DCTS_v1.4.1.RB.HOT.15m.161125.ob3_positions.csv
+1,170,.\record\position\_DCTS_v1.4.1.RB.HOT.15m.161125.ob4_positions.csv
+1,171,.\record\position\_DCTS_v1.4.1.RB.HOT.15m.161125.ob5_positions.csv
+1,172,.\record\position\_DCTS_v1.4.1.RB.HOT.15m.161125.ob7_positions.csv
+1,173,.\record\position\_DCTS_v1.4.1.RB.HOT.15m.161125.ob8_positions.csv
+1,174,.\record\position\_DCTS_v1.4.1.RB.HOT.15m.161125.ob9_positions.csv
+1,175,.\record\position\_DCTS_v1.4.1.RB.HOT.5m.161202.ob3_positions.csv
+1,176,.\record\position\_DCTS_v1.4.1.RB.HOT.5m.161202.ob4_positions.csv
+1,177,.\record\position\_DCTS_v1.4.1.RB.HOT.5m.161202.ob5_positions.csv
+1,178,.\record\position\_DCTS_v1.4.1.RB.HOT.5m.161202.ob6_positions.csv
+1,179,.\record\position\_DCTS_v1.4.1.RB.HOT.5m.161202.ob7_positions.csv
+1,180,.\record\position\_Donchian_v1.1.DL.a.000000.30m.20151221.ob.1_positions.csv
+1,181,.\record\position\_Donchian_v1.1.DL.a.000000.30m.20151221.ob.3_positions.csv
+1,182,.\record\position\_Donchian_v1.1.DL.cu.000000.10m.20160408.ob.5_positions.csv
+1,183,.\record\position\_Donchian_v1.1.DL.j.000000.30m.20160707.ob.1_positions.csv
+1,184,.\record\position\_Donchian_v1.1.DL.pp.000000.30m.20160707.ob.1_positions.csv
+1,185,.\record\position\_Donchian_v1.1.DL.pp.000000.30m.20160707.ob.5_positions.csv
+1,186,.\record\position\_Donchian_v1.1.DL.rb.000000.10m.20160408.ob.2_positions.csv
+1,187,.\record\position\_Donchian_v1.1.DL.rb.000000.30m.20151221.ob.1_positions.csv
+1,188,.\record\position\_Donchian_v1.1.DL.rb.000000.30m.20151221.ob.3_positions.csv
+1,189,.\record\position\_Donchian_v1.1.DL.rb.000000.30m.20151221.os.rr.1_positions.csv
+1,190,.\record\position\_Donchian_v1.1.DL.RB00.15m.160303.ob.1_positions.csv
+1,191,.\record\position\_Donchian_v1.1.DL.RU00.5m.160303.ob.4_positions.csv
+1,192,.\record\position\_Donchian_v1.1.DL.sr.000000.5m.20160408.ob.3_positions.csv
+1,193,.\record\position\_DV_v1.0.1.a.000000.15m.20160915.ob.1_positions.csv
+1,194,.\record\position\_DV_v1.0.1.a.000000.15m.20160915.ob.2_positions.csv
+1,195,.\record\position\_DV_v1.0.1.a.000000.5m.20160915.ob.1_positions.csv
+1,196,.\record\position\_DV_v1.0.1.a.000000.5m.20160915.ob.2_positions.csv
+1,197,.\record\position\_DV_v1.0.1.a.000000.5m.20160915.ob.3_positions.csv
+1,198,.\record\position\_DV_v1.0.1.a.000000.5m.20160915.ob.4_positions.csv
+1,199,.\record\position\_DV_v1.0.1.a.000000.5m.20160915.ob.5_positions.csv
+1,200,.\record\position\_DV_v1.0.1.fg.000000.15m.20160915.ob.4_positions.csv
+1,201,.\record\position\_DV_v1.0.1.fg.000000.15m.20160915.ob.5_positions.csv
+1,202,.\record\position\_DV_v1.0.1.j.000000.15m.20160915.ob.1_positions.csv
+1,203,.\record\position\_DV_v1.0.1.j.000000.15m.20160915.ob.2_positions.csv
+1,204,.\record\position\_DV_v1.0.1.j.000000.15m.20160915.ob.3_positions.csv
+1,205,.\record\position\_DV_v1.0.1.j.000000.15m.20160915.ob.4_positions.csv
+1,206,.\record\position\_DV_v1.0.1.j.000000.15m.20160915.ob.5_positions.csv
+1,207,.\record\position\_DV_v1.0.1.jm.000000.15m.20160915.ob.1_positions.csv
+1,208,.\record\position\_DV_v1.0.1.jm.000000.15m.20160915.ob.2_positions.csv
+1,209,.\record\position\_DV_v1.0.1.jm.000000.15m.20160915.ob.3_positions.csv
+1,210,.\record\position\_DV_v1.0.1.jm.000000.15m.20160915.ob.4_positions.csv
+1,211,.\record\position\_DV_v1.0.1.jm.000000.15m.20160915.ob.5_positions.csv
+1,212,.\record\position\_DV_v1.0.1.jm.000000.5m.20160915.ob.1_positions.csv
+1,213,.\record\position\_DV_v1.0.1.jm.000000.5m.20160915.ob.2_positions.csv
+1,214,.\record\position\_DV_v1.0.1.jm.000000.5m.20160915.ob.3_positions.csv
+1,215,.\record\position\_DV_v1.0.1.jm.000000.5m.20160915.ob.4_positions.csv
+1,216,.\record\position\_DV_v1.0.1.jm.000000.5m.20160915.ob.5_positions.csv
+1,217,.\record\position\_DV_v1.0.DL.a.000000.10m.20160706.ob.4_B_positions.csv
+1,218,.\record\position\_DV_v1.0.DL.al.000000.15m.20160701.is.rr.1_positions.csv
+1,219,.\record\position\_DV_v1.0.DL.al.000000.15m.20160701.np.1_positions.csv
+1,220,.\record\position\_DV_v1.0.DL.al.000000.15m.20160701.ob.2_positions.csv
+1,221,.\record\position\_DV_v1.0.DL.al.000000.15m.20160701.os.rr.1_positions.csv
+1,222,.\record\position\_DV_v1.0.DL.al.000000.5m.20160701.ob.1_positions.csv
+1,223,.\record\position\_DV_v1.0.DL.al.000000.5m.20160701.ob.2_positions.csv
+1,224,.\record\position\_DV_v1.0.DL.al.000000.5m.20160701.os.rr.1_positions.csv
+1,225,.\record\position\_DV_v1.0.DL.pp.000000.10m.20160706.ob.1_B_positions.csv
+1,226,.\record\position\_DV_v1.0.DL.pp.000000.10m.20160706.ob.3_B_positions.csv
+1,227,.\record\position\_DV_v1.0.DL.pp.000000.10m.20160706.ob.6_B_positions.csv
+1,228,.\record\position\_DV_v1.0.DL.rb.000000.15m.20160701.is.rr.1_positions.csv
+1,229,.\record\position\_DV_v1.0.DL.rb.000000.15m.20160701.ob.1_positions.csv
+1,230,.\record\position\_DV_v1.0.DL.rb.000000.5m.20160701.np.1_positions.csv
+1,231,.\record\position\_DV_v1.0.DL.sr.000000.5m.20160701.is.rr.1_positions.csv
+1,232,.\record\position\_DV_v1.0.DL.sr.000000.5m.20160701.ob.1_positions.csv
+1,233,.\record\position\_DV_v1.0.DL.sr.000000.5m.20160701.ob.2_positions.csv
+1,234,.\record\position\_JiangNan v1.2.Rb.15m.160619.at.1_positions.csv
+1,235,.\record\position\_JiangNan v1.2.Rb.15m.160619.np.3_positions.csv
+1,236,.\record\position\_JiangNan v1.2.Rb.15m.160619.ob.1_positions.csv
+1,237,.\record\position\_JiangNan v1.2.Rb.15m.160619.tt.1_positions.csv
+1,238,.\record\position\_JiangNan_v1.4.1.ni.Hot.1m.2c.20160915.ob.4_positions.csv
+1,239,.\record\position\_JiangNan_v1.4.rb.Hot.15m.20c.20160915.ob.3_positions.csv
+1,240,.\record\position\_LRCB_v1.3.AT.rb.3m.20160701.ob.1_positions.csv
+1,241,.\record\position\_LRCB_v1.3.AT.rb.3m.20160701.ob.2_positions.csv
+1,242,.\record\position\_MultiPivot_v1.1.rb.15m.20160915.ob.2_positions.csv
+1,243,.\record\position\_NCB v3.5.2.Rb00.5m.160706.ob.1_B_positions.csv
+1,244,.\record\position\_NCB v3.5.2.Rb00.5m.160706.ob.2_B_positions.csv
+1,245,.\record\position\_NCB_v3.5.2.RB00.10m.160704.np.1_B_positions.csv
+1,246,.\record\position\_NCB_v3.5.2.RB00.10m.160704.np.2_B_positions.csv
+1,247,.\record\position\_NCB_v3.5.2.RB00.10m.160704.ob.1_B_positions.csv
+1,248,.\record\position\_NCB_v3.5.2.RB00.10m.160704.ob.2_B_positions.csv
+1,249,.\record\position\_NCB_v3.5.2.RB00.10m.160704.ob.3_B_positions.csv
+1,250,.\record\position\_NCB_v3.5.2.RB00.5m.160704.ob.1_B_positions.csv
+1,251,.\record\position\_NCB_v3.5.2.RB00.5m.160704.ob.2_B_positions.csv
+1,252,.\record\position\_NCB_v3.5.2.RU00.15m.160704.is.rr.1_B_positions.csv
+1,253,.\record\position\_NCB_v3.5.AT.a.000000.15m.20160308.os.rr.2_positions.csv
+1,254,.\record\position\_NCB_v3.5.AT.rb.000000.15m.20160308.np.1_positions.csv
+1,255,.\record\position\_NCB_v3.5.AT.rb.000000.1m.20160308.ob.1_positions.csv
+1,256,.\record\position\_NCB_v3.5.AT.rb.000000.30m.20160308.ob.2_positions.csv
+1,257,.\record\position\_NCB_v3.5.AT.rb.000000.3m.20160308.ob.1_positions.csv
+1,258,.\record\position\_NCB_v3.5.AT.rb.000000.5m.20160308.ob.2_positions.csv
+1,259,.\record\position\_NCB_v3.5.DL.rb.000000.5m.151120.np.1_positions.csv
+1,260,.\record\position\_NCB_VSR_v2.0.1.ru.000000.15m.20160915.ob.1_positions.csv
+1,261,.\record\position\_SATS v2.0.1.4.i.5m.160704.is.rr.1_positions.csv
+1,262,.\record\position\_SATS v2.0.1.4.i.5m.160704.ob.1_positions.csv
+1,263,.\record\position\_SATS v2.0.1.4.i.5m.160704.ob.2_positions.csv
+1,264,.\record\position\_SATS v2.0.1.4.i.5m.160704.os.rr.1_positions.csv
+1,265,.\record\position\_SATS v2.0.1.NT.DL.NR.l.10m.160703.is.rr.1_positions.csv
+1,266,.\record\position\_SATS v2.0.1.NT.DL.NR.l.10m.160703.np.1_positions.csv
+1,267,.\record\position\_SATS v2.0.1.NT.DL.NR.l.15m.160703.ob.1_positions.csv
+1,268,.\record\position\_SATS v2.0.1.NT.DL.NR.l.1m.160703.is.rr.1_positions.csv
+1,269,.\record\position\_SATS v2.0.1.NT.DL.NR.l.30m.160703.os.rr.1_positions.csv
+1,270,.\record\position\_SATS v2.0.1.NT.DL.NR.l.5m.160703.is.rr.1_positions.csv
+1,271,.\record\position\_SATS v2.6.2.a.15m.160704.is.rr.1_positions.csv
+1,272,.\record\position\_SATS v2.6.2.a.15m.160704.np.1_positions.csv
+1,273,.\record\position\_SATS v2.6.2.AL00.15m.160704.np.1_positions.csv
+1,274,.\record\position\_SATS v2.6.2.AL00.15m.160704.ob.2_positions.csv
+1,275,.\record\position\_SATS v2.6.2.AL00.5m.160704.is.rr.1_positions.csv
+1,276,.\record\position\_SATS v2.6.2.ni.5m.160705.is.rr.1_positions.csv
+1,277,.\record\position\_SATS v2.6.2.ni.5m.160705.ob.1_positions.csv
+1,278,.\record\position\_SATS v2.6.2.pp.10m.160705.is.rr.1_positions.csv
+1,279,.\record\position\_SATS v2.6.2.pp.10m.160705.np.1_positions.csv
+1,280,.\record\position\_SATS v2.6.2.pp.10m.160705.ob.1_positions.csv
+1,281,.\record\position\_SATS v2.6.2.pp.10m.160705.ob.2_positions.csv
+1,282,.\record\position\_SATS_v2.6.3.CU.30m.160902.ob.4_positions.csv
+1,283,.\record\position\_SATS_v2.6.3.HC.5m.160823.ob.3_positions.csv
+1,284,.\record\position\_SATS_v2.6.3.pb.15m.160823.ob.2_positions.csv
+1,285,.\record\position\_SATS_v2.6.3.pb.15m.160823.ob.3_positions.csv
+1,286,.\record\position\_SATS_v2.6.3.RB.HOT.10m.161014.ob6_positions.csv
+1,287,.\record\position\_SATS_v2.6.3.RB.HOT.10m.161014.ob9_positions.csv
+1,288,.\record\position\_SATS_v2.6.3.RB.HOT.15m.161014.ob1_positions.csv
+1,289,.\record\position\_SATS_v2.6.3.RB.HOT.15m.161014.ob2_positions.csv
+1,290,.\record\position\_SATS_v2.6.3.RB.HOT.15m.161014.ob3_positions.csv
+1,291,.\record\position\_SATS_v2.6.3.RB.HOT.15m.161014.ob5_positions.csv
+1,292,.\record\position\_SATS_v2.6.3.RB.HOT.15m.161014.ob6_positions.csv
+1,293,.\record\position\_SATS_v2.6.3.RB.HOT.2m.161014.ob1_positions.csv
+1,294,.\record\position\_SATS_v2.6.3.RB.HOT.2m.161014.ob2_positions.csv
+1,295,.\record\position\_SATS_v2.6.3.RB.HOT.30m.161014.ob1_positions.csv
+1,296,.\record\position\_SATS_v2.6.3.RB.HOT.30m.161014.ob3_positions.csv
+1,297,.\record\position\_SATS_v2.6.3.RB.HOT.30m.161014.ob4_positions.csv
+1,298,.\record\position\_SATS_v2.6.3.RB.HOT.30m.161014.ob6_positions.csv
+1,299,.\record\position\_SATS_v2.6.3.RB.HOT.3m.161014.ob5_positions.csv
+1,300,.\record\position\_SATS_v2.6.3.RB.HOT.3m.161014.ob6_positions.csv
+1,301,.\record\position\_SATS_v2.6.3.RB.HOT.5m.161014.ob2_positions.csv
+1,302,.\record\position\_SATS_v2.6.3.RB.HOT.5m.161014.ob3_positions.csv
+1,303,.\record\position\_SATS_v2.6.3.RB.HOT.5m.161014.ob6_positions.csv
+1,304,.\record\position\_SATS_v2.6.3.SN00.15m.160823.ob.1_positions.csv
+1,305,.\record\position\_SATS_v2.6.3.SN00.15m.160823.ob.2_positions.csv
+1,306,.\record\position\_SATS_v2.6.3.SN00.15m.160823.ob.3_positions.csv
+1,307,.\record\position\_SATS_v2.6.3.SN00.15m.160823.ob.4_positions.csv
+1,308,.\record\position\_SATS_v2.6.3.SN00.15m.160823.ob.5_positions.csv
+1,309,.\record\position\_SATS_v2.6.3.SN00.5m.160823.ob.1_positions.csv
+1,310,.\record\position\_SATS_v2.6.3.SN00.5m.160823.ob.2_positions.csv
+1,311,.\record\position\_SATS_v2.6.3.SN00.5m.160823.ob.3_positions.csv
+1,312,.\record\position\_SATS_v2.6.3.SN00.5m.160823.ob.4_positions.csv
+1,313,.\record\position\_SATS_v2.6.3.SN00.5m.160823.ob.5_positions.csv
+1,314,.\record\position\_SATS_v2.6.3.ZN.15m.160823.ob.4_positions.csv
+1,315,.\record\position\_SFET&CSR_v1.2; DCN_v1.1.2.PP.HOT.30m.1c.160915.ob.2_positions.csv
+1,316,.\record\position\_SFET&CSR_v1.2; DCN_v1.1.2.PP.HOT.30m.1c.160915.ob.3_positions.csv
+1,317,.\record\position\_SFET&CSR_v1.2; DCN_v1.1.2.PP.HOT.30m.1c.160915.ob.4_positions.csv
+1,318,.\record\position\_SFET&CSR_v1.2; DCN_v1.1.2.PP.HOT.30m.1c.160915.ob.5_positions.csv
+1,319,.\record\position\_SFET&CSR_v1.2; DCN_v1.1.2.RM.HOT.15m.1c.160915.ob.2_positions.csv
+1,320,.\record\position\_SFET&CSR_v1.2; DCN_v1.1.2.RM.HOT.15m.1c.160915.ob.3_positions.csv
+1,321,.\record\position\_SFET&CSR_v1.2; DCN_v1.1.2.ZN.HOT.5m.1c.160915.ob.2_positions.csv
+1,322,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.CU.HOT.15m.20c.160901.ob.1_positions.csv
+1,323,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.CU.HOT.15m.20c.160901.ob.2_positions.csv
+1,324,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.CU.HOT.15m.2c.160901.ob.5_positions.csv
+1,325,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.cu.hot.1d.2c.160901.ob.5_positions.csv
+1,326,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.CU.HOT.30m.20c.160901.ob.1_positions.csv
+1,327,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.cu.hot.3m.20c.160901.ob.5_positions.csv
+1,328,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.cu.hot.3m.2c.160901.ob.2_positions.csv
+1,329,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.cu.hot.3m.2c.160901.ob.3_positions.csv
+1,330,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.HC.HOT.15m.20c.160901.ob.1_positions.csv
+1,331,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.HC.HOT.15m.2c.160901.ob.1_positions.csv
+1,332,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.HC.HOT.15m.2c.160901.ob.2_positions.csv
+1,333,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.HC.HOT.15m.2c.160901.ob.3_positions.csv
+1,334,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.HC.HOT.15m.2c.160901.ob.4_positions.csv
+1,335,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.HC.HOT.15m.2c.160901.ob.5_positions.csv
+1,336,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.I.HOT.30m.20c.160901.ob.1_positions.csv
+1,337,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.L.HOT.15m.20c.160901.ob.1_positions.csv
+1,338,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.L.HOT.15m.20c.160901.ob.3_positions.csv
+1,339,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.L.HOT.15m.2c.160901.ob.2_positions.csv
+1,340,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.L.HOT.15m.2c.160901.ob.3_positions.csv
+1,341,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.L.HOT.15m.2c.160901.ob.4_positions.csv
+1,342,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.L.HOT.15m.2c.160901.ob.5_positions.csv
+1,343,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.ni.hot.3m.2c.160901.ob.1_positions.csv
+1,344,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.pp.hot.10m.2c.160901.ob.2_positions.csv
+1,345,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.pp.hot.10m.2c.160901.ob.4_positions.csv
+1,346,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.pp.hot.1m.2c.160901.ob.1_positions.csv
+1,347,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.pp.hot.1m.2c.160901.ob.2_positions.csv
+1,348,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.pp.hot.30m.20c.160901.ob.1_positions.csv
+1,349,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.pp.hot.30m.20c.160901.ob.4_positions.csv
+1,350,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.pp.hot.30m.20c.160901.ob.5_positions.csv
+1,351,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.pp.hot.30m.2c.160901.ob.1_positions.csv
+1,352,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.pp.hot.30m.2c.160901.ob.2_positions.csv
+1,353,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.pp.hot.30m.2c.160901.ob.5_positions.csv
+1,354,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.pp.hot.3m.2c.160901.ob.2_positions.csv
+1,355,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.RB.HOT.1d.2c.160901.ob.1_positions.csv
+1,356,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.RB.HOT.1d.2c.160901.ob.2_positions.csv
+1,357,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.RB.HOT.1d.2c.160901.ob.3_positions.csv
+1,358,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.RB.HOT.3m.2c.160901.ob.1_positions.csv
+1,359,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.RB.HOT.3m.2c.160901.ob.2_positions.csv
+1,360,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.RB.HOT.3m.2c.160901.ob.3_positions.csv
+1,361,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.RB.HOT.3m.2c.160901.ob.5_positions.csv
+1,362,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.RM.HOT.15m.20c.160901.ob.1_positions.csv
+1,363,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.RM.HOT.15m.20c.160901.ob.2_positions.csv
+1,364,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.RM.HOT.15m.20c.160901.ob.3_positions.csv
+1,365,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.RM.HOT.15m.20c.160901.ob.4_positions.csv
+1,366,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.RM.HOT.15m.20c.160901.ob.5_positions.csv
+1,367,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.RM.HOT.15m.2c.160901.ob.1_positions.csv
+1,368,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.RM.HOT.15m.2c.160901.ob.2_positions.csv
+1,369,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.RM.HOT.15m.2c.160901.ob.3_positions.csv
+1,370,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.RM.HOT.15m.2c.160901.ob.4_positions.csv
+1,371,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.RM.HOT.15m.2c.160901.ob.5_positions.csv
+1,372,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.TA.HOT.15m.20c.160901.ob.1_positions.csv
+1,373,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.TA.HOT.15m.20c.160901.ob.2_positions.csv
+1,374,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.TA.HOT.15m.20c.160901.ob.3_positions.csv
+1,375,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.TA.HOT.15m.20c.160901.ob.4_positions.csv
+1,376,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.TA.HOT.15m.20c.160901.ob.5_positions.csv
+1,377,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.TA.HOT.15m.2c.160901.ob.1_positions.csv
+1,378,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.TA.HOT.15m.2c.160901.ob.3_positions.csv
+1,379,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.TA.HOT.15m.2c.160901.ob.4_positions.csv
+1,380,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.1.Y.HOT.30m.20c.160901.ob.1_positions.csv
+1,381,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.A.000.15m.2c.160901.ob.4_positions.csv
+1,382,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.al.0000.10m.20c.160901.ob.1_positions.csv
+1,383,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.al.0000.10m.20c.160901.ob.3_positions.csv
+1,384,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.al.0000.10m.20c.160901.ob.4_positions.csv
+1,385,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.cf.0000.10m.20c.160901.ob.1_positions.csv
+1,386,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.cf.0000.10m.20c.160901.ob.2_positions.csv
+1,387,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.cu.0000.1d.20c.160901.ob.3_positions.csv
+1,388,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.RB.HOT.10m.2c.160901.ob.1_positions.csv
+1,389,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.RB.HOT.10m.2c.160901.ob.2_positions.csv
+1,390,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.RB.HOT.10m.2c.160901.ob.3_positions.csv
+1,391,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.RB.HOT.10m.2c.160901.ob.4_positions.csv
+1,392,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.RB.HOT.10m.2c.160901.ob.5_positions.csv
+1,393,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.RB.HOT.1d.20c.160901.ob.1_positions.csv
+1,394,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.RB.HOT.1d.20c.160901.ob.2_positions.csv
+1,395,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.RB.HOT.1d.20c.160901.ob.3_positions.csv
+1,396,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.RB.HOT.1d.20c.160901.ob.5_positions.csv
+1,397,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.RB.HOT.30m.20c.160901.ob.1_positions.csv
+1,398,.\record\position\_SFET&CSR_v1.2; JiangNan_v1.4.RB.HOT.30m.20c.160901.ob.5_positions.csv
+1,399,.\record\position\_SFET&CSR_v1.2; William_v1.1.MA.hot.10m.160901.ob.1_positions.csv
+1,400,.\record\position\_SFET&CSR_v1.2; William_v1.1.TA.000.15m.160901.ob.1_positions.csv
+1,401,.\record\position\_SFET&CSR_v1.2; William_v1.1.TA.000.15m.160901.ob.2_positions.csv
+1,402,.\record\position\_SFET&CSR_v1.2; william_v1.1.TA.HOT.30m.160901.ob.1_positions.csv
+1,403,.\record\position\_SFET&CSR_v1.2; William_v1.1.Y.000.30m.160901.ob.5_positions.csv
+1,404,.\record\position\_T2006_v1.3.AT.rb.000000.30m.20160308.os.rr.1_positions.csv
+1,405,.\record\position\_VSR_v1.12.AU00.15m.160902.ob.2_positions.csv
+1,406,.\record\position\_VSR_v1.12.AU00.15m.160902.ob.3_positions.csv
+1,407,.\record\position\_VSR_v1.12.AU00.15m.160902.ob.5_positions.csv
+1,408,.\record\position\_VSR_v1.12.pb00.5m.160824.ob.1_positions.csv
+1,409,.\record\position\_VSR_v1.12.pb00.5m.160824.ob.2_positions.csv
+1,410,.\record\position\_VSR_v1.12.pb00.5m.160824.ob.3_positions.csv
+1,411,.\record\position\_VSR_v1.12.pb00.5m.160824.ob.4_positions.csv
+1,412,.\record\position\_VSR_v1.12.pb00.5m.160824.ob.5_positions.csv
+1,413,.\record\position\_William_v1.1.a.000000.15m.20160706.ob.11_positions.csv
+1,414,.\record\position\_William_v1.1.AG00.15m.160617.np.1_positions.csv
+1,415,.\record\position\_William_v1.1.AG00.15m.160617.ob.4_positions.csv
+1,416,.\record\position\_William_v1.1.AG00.15m.160617.ob.5_positions.csv
+1,417,.\record\position\_William_v1.1.AG00.15m.160617.rr.2_positions.csv
+1,418,.\record\position\_William_v1.1.AG00.15m.160617.rr.4_positions.csv
+1,419,.\record\position\_William_v1.1.AG00.15m.160708.ob.1_positions.csv
+1,420,.\record\position\_William_v1.1.AG00.15m.160708.os.rr.1_positions.csv
+1,421,.\record\position\_William_v1.1.AG00.5m.160617.np.1_positions.csv
+1,422,.\record\position\_William_v1.1.AL00.15m.160629.np.2_positions.csv
+1,423,.\record\position\_William_v1.1.AU00.15m.160615.ob.1_positions.csv
+1,424,.\record\position\_William_v1.1.AU00.15m.160615.ob.2_positions.csv
+1,425,.\record\position\_William_v1.1.AU00.15m.160615.rr.3_positions.csv
+1,426,.\record\position\_William_v1.1.AU00.5m.160704.ob.3_positions.csv
+1,427,.\record\position\_William_v1.1.AU00.5m.160704.rr.3_positions.csv
+1,428,.\record\position\_William_v1.1.i.000000.15m.20160706.ob.2_positions.csv
+1,429,.\record\position\_William_v1.1.Ni00.5m.160621.rr.2_positions.csv
+1,430,.\record\position\_William_v1.1.Ni00.5m.160621.rr.3_positions.csv
+1,431,.\record\position\_William_v1.1.pp.000000.2m.20160706.ob.3_positions.csv
+1,432,.\record\position\_William_v1.1.pp.000000.2m.20160706.ob.5_positions.csv
+1,433,.\record\position\_William_v1.1.pp.000000.5m.20160706.ob.12_positions.csv
+1,434,.\record\position\_William_v1.1.pp.000000.5m.20160706.ob.3_positions.csv
+1,435,.\record\position\_William_v1.1.pp.000000.5m.20160706.ob.5_positions.csv
+1,436,.\record\position\_William_v1.2.1.RB.HOT.10m.161014.ob10_positions.csv
+1,437,.\record\position\_William_v1.2.1.RB.HOT.15m.161014.ob4_positions.csv
+1,438,.\record\position\_William_v1.2.1.RB.HOT.15m.161014.ob5_positions.csv
+1,439,.\record\position\_William_v1.2.1.RB.HOT.15m.161014.ob6_positions.csv
+1,440,.\record\position\_William_v1.2.1.RB.HOT.2m.161014.ob1_positions.csv
+1,441,.\record\position\_William_v1.2.1.RB.HOT.2m.161014.ob2_positions.csv
+1,442,.\record\position\_William_v1.2.1.RB.HOT.2m.161014.ob7_positions.csv
+1,443,.\record\position\_William_v1.2.1.RB.HOT.30m.161014.ob3_positions.csv
+1,444,.\record\position\_William_v1.2.1.RB.HOT.30m.161014.ob4_positions.csv
+1,445,.\record\position\_William_v1.2.CF00.15m.160627.ob.1_positions.csv
+1,446,.\record\position\_William_v1.2.CF00.15m.160627.rr.1_positions.csv
+1,447,.\record\position\_William_v1.2.PVC00.15m.160628.np.1_positions.csv
+1,448,.\record\position\_William_v1.2.PVC00.15m.160628.np.2_positions.csv
+1,449,.\record\position\_William_v1.2.PVC00.15m.160628.np.3_positions.csv
+1,450,.\record\position\_William_v1.2.PVC00.15m.160628.np.4_positions.csv
