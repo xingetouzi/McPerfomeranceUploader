@@ -24,7 +24,12 @@ class MongoConnection:
         with open(config_file) as f:
             config = json.load(f)
             f.close()
-        self._host = "mongodb://%s:%s@%s" % (config["user"], config["password"], config["host"])
+        user = config.get("user", "")
+        password = config.get("password", "")
+        if user and password:
+            self._host = "mongodb://%s:%s@%s" % (config["user"], config["password"], config["host"])
+        else:
+            self._host = "mongodb://%s" % config["host"]
         self._port = config["port"]
         self._client = pymongo.MongoClient(host=self._host, port=self._port)
 
